@@ -116,7 +116,10 @@ the reading. Plot the graph of forward current v/s output optical power of the L
 
 
 ## 📈 MODEL GRAPH
-![WhatsApp Image 2025-11-18 at 1 41 32 PM](https://github.com/user-attachments/assets/aa09c915-aaec-465d-b97e-04273aa569c5)
+
+<img width="960" height="425" alt="image" src="https://github.com/user-attachments/assets/dd8326f5-a5d1-45ef-8bf6-db6da51560b8" />
+
+
 
 ## GRAPH
 ![WhatsApp Image 2025-11-18 at 1 42 32 PM](https://github.com/user-attachments/assets/3b4e208f-84af-4a84-bf4d-f5bfe7a4ce65)
